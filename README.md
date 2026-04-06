@@ -29,7 +29,6 @@ O jogo possui vários obstáculos, espinhos, estrelas e outros itens. O objetivo
 - Versão: 1.5.4
 - Atualizado em: 27 de mar. de 2022
 - Requer Android: 7.0 ou superior
-- Downloads: 10+ downloads
 - Classificação do conteúdo: Livre
 - Oferecido por: 3RN GAMES Entretenimento
 
