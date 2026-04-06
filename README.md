@@ -18,13 +18,6 @@ O jogo possui vários obstáculos, espinhos, estrelas e outros itens. O objetivo
 - Prêmio R: Força do pulo de 1400 pixels por segundo e escala 0.2
 - Prêmio 3RN GAMES: Força do pulo de 1850 pixels por segundo e escala 2.2
 
-### Requisitos de hardware
-
-- Android 7.0 mínimo
-- RAM: 6 GB mínimo
-- Processador: hexa-core (6 núcleos) mínimo
-- WebView atualizado
-
 ### Detalhes do aplicativo
 
 - Resolução de tela FULL HD 1920x1080
